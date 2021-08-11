@@ -15,7 +15,7 @@ export default function Home() {
       <Header />
 
       {/** nav */}
-      {/* <Nav /> */}
+      <Nav />
     </div>
   )
 }
